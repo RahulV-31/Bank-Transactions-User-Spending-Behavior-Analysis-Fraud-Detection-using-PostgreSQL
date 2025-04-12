@@ -3,7 +3,7 @@
 > This project uses advanced SQL queries on a synthetic financial dataset to analyze user spending behavior and detect fraudulent activities. Leveraging PostgreSQL features such as **CTEs**, **window functions**, **aggregation**, and **pattern mining**, we uncover key insights about fraud patterns, transaction types, and suspicious sequences.
 >
 > 🔍 **Tech Stack:** PostgreSQL, pgAdmin  
-> 📁 **Dataset:** Synthetic Financial Dataset for Fraud Detection ([Kaggle Link]([https://www.kaggle.com/datasets/ealaxi/paysim1]))  
+> 📁 **Dataset:** Synthetic Financial Dataset for Fraud Detection ([Kaggle Link](https://www.kaggle.com/datasets/ealaxi/paysim1))
 >
 > ### 🔧 Key Objectives:
 > - Explore user transaction behavior
